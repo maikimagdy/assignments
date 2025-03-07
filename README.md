@@ -1,12 +1,28 @@
-# React + Vite
+(1) How to Run
+1-Clone the repo:
+git clone https://github.com/your-username/student-assignment-system.git
+cd student-assignment-system
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2-Install dependencies:
+npm install
 
-Currently, two official plugins are available:
+3-Run the app:
+npm run dev
+Open http://localhost:5173.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+(2) Dependencies
+1-React
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2-Vite
+
+3-Tailwind CSS
+
+4-React Router
+
+
+(3) Design Decisions
+1-Search/Filter: Built-in filtering by title, due date
+2-Mockdata.json file to store data
+3-Responsive: Tailwind CSS for mobile-friendly design.
+
