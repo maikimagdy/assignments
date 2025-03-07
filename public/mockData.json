@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Math Homework",
+    "dueDate": "2023-11-15",
+    "description": "Solve problems on calculus.",
+    "instructions": "Submit a PDF file with your solutions.",
+    "status": false
+  },
+  {
+    "id": 2,
+    "title": "Science Project",
+    "dueDate": "2023-11-20",
+    "description": "Create a model of the solar system.",
+    "instructions": "Submit a zip file with images and a report.",
+    "status": false
+  },
+  {
+    "id": 3,
+    "title": "Car Rental Project",
+    "dueDate": "2023-1-30",
+    "description": "Create a model of car rental project.",
+    "instructions": "Submit a zip file with images and a report.",
+    "status": false
+  }
+]
